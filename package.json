@@ -21,7 +21,9 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.1.1",
     "validator": "^13.11.0",
-    "node-cron": "^3.0.2"
+    "node-cron": "^3.0.2",
+    "axios": "^1.6.1",
+
 
   },
   "devDependencies": {
