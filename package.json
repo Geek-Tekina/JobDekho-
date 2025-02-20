@@ -20,7 +20,9 @@
     "express-fileupload": "^1.4.3",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.1.1",
-    "validator": "^13.11.0"
+    "validator": "^13.11.0",
+    "node-cron": "^3.0.2"
+
   },
   "devDependencies": {
     "nodemon": "^3.0.3"
